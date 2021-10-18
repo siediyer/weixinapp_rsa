@@ -1,6 +1,7 @@
 {
   "pages":[
-    "pages/index/index",
+	"pages/rsa/index",
+	"pages/aes/index",
     "pages/logs/logs"
   ],
   "window":{
